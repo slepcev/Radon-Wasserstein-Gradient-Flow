@@ -1,6 +1,6 @@
 # Radon--Wasserstein Gradient Flows
 
-**Repository for "Radon--Wasserstein Gradient Flows for Interacting-Particle Sampling in High Dimensions"** (arXiv link forthcoming)  
+**Repository for "Radon--Wasserstein Gradient Flows for Interacting-Particle Sampling in High Dimensions"** https://arxiv.org/abs/2602.05227
 
 by [Elias Hess-Childs](https://www.math.cmu.edu/~ehesschi/) (CMU), [Dejan Slepcev](https://www.math.cmu.edu/~slepcev/) (CMU), and Lantian Xu (CMU).  
 
@@ -44,4 +44,15 @@ MIT License. See `LICENSE`.
 
 ## Citation
 
-If you found this repository useful or the associated paper interesting, please consider citing our (forthcoming) paper.
+If you found this repository useful or the associated paper interesting, please consider citing:
+
+```bibtex
+@misc{HessChildsSlepcevXu2026RadonWasserstein,
+  title={Radon--Wasserstein Gradient Flows for Interacting-Particle Sampling in High Dimensions},
+  author={Hess-Childs, Elias and Slep{\v{c}}ev, Dejan and Xu, Lantian},
+  year={2026},
+  eprint={2602.05227},
+  archivePrefix={arXiv},
+  primaryClass={stat.ML},
+  url= {https://arxiv.org/abs/2602.05227},
+}
